@@ -1,0 +1,21 @@
+{
+  "name": "gullwings",
+  "version": "0.0.1",
+  "description": "Draw curly braces in canvas",
+  "main": "gullwings.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groenroos/gullwings.git"
+  },
+  "keywords": [
+    "curly braces",
+    "brackets",
+    "canvas"
+  ],
+  "author": "Oskari Groenroos",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/groenroos/gullwings/issues"
+  }
+}

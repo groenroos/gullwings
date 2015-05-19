@@ -1,0 +1,8 @@
+{
+  "name": "Gullwings",
+  "version": "0.0.1",
+  "main": "gullwings.js",
+  "ignore": [
+    "*.md"
+  ]
+}
